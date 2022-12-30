@@ -3,7 +3,7 @@ body {
 }
 header {
     margin-bottom: -34px;
-    background-image: url(image/красивый_новогодний_фон.jpg);
+    background-image: url(красивый_новогодний_фон.jpg);
     background-size: cover;
 }
 .main_heading {
@@ -19,7 +19,7 @@ header {
     margin-top: 10px;
     padding:0 50px 0 50px;
     height: 50em;
-    background-image: url(image/Christmas_Crescent_Snowmen_Santa_Claus_.jpg);
+    background-image: url(Christmas_Crescent_Snowmen_Santa_Claus_.jpg);
     background-size: cover;
 }
 .speech {
